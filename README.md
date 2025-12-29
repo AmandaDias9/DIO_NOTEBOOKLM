@@ -1,0 +1,2 @@
+# DIO_NOTEBOOKLM
+DIO Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
